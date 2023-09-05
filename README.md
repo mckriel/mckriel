@@ -8,10 +8,9 @@ Product Manager | Software Developer | Solutions Architect
 * 📦 I have 13 years of experience as a Product Manager
 * 👨‍💻 I have 3 years of experience as a Software Developer
 * 🔭 I am currently working at [skrmiish](https://skrmiish.gg/)
-* 🌱 I am currently learning [The Complete Web Developer in 2023: Zero to Mastery]([https://skrmiish.gg/](https://www.udemy.com/course/the-complete-web-developer-zero-to-mastery/))
+* 🌱 I am currently learning [The Complete Web Developer in 2023]([https://skrmiish.gg/](https://www.udemy.com/course/the-complete-web-developer-zero-to-mastery/))
 
 
-https://www.udemy.com/course/the-complete-web-developer-zero-to-mastery/
 
 <!--
 **mckriel/mckriel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
