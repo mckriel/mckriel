@@ -1,14 +1,14 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Matthew Kriel
 =====================================================================================================================================
 
-Product Manager | Software Developer | Solutions Architect
-----------------------------------------------------------
+Product Manager. Software Developer. Solutions Architect.
+---------------------------------------------------------
 
 * 📍 I am based in Cape Town, South Africa
 * 📦 I have 13 years of experience as a Product Manager
 * 👨‍💻 I have 3 years of experience as a Software Developer
 * 🔭 I am currently working at [skrmiish](https://skrmiish.gg/)
-* 🌱 I am currently learning [The Complete Web Developer in 2023]([https://skrmiish.gg/](https://www.udemy.com/course/the-complete-web-developer-zero-to-mastery/))
+* 🌱 I am currently learning [The Complete Web Developer in 2023](https://skrmiish.gg/](https://www.udemy.com/course/the-complete-web-developer-zero-to-mastery/)
 
 
 
