@@ -10,5 +10,5 @@ Product Manager. Software Developer. Solutions Architect.
 * 🔭 I am currently working at [skrmiish.gg](https://skrmiish.gg/) as a Senior Product Manager, also helping out with Frontend and Backend dev tasks.
 * 🌱 I am currently learning [The Complete Web Developer in 2023](https://www.udemy.com/course/the-complete-web-developer-zero-to-mastery/)
 * 🏡 [My website](https://mckriel.co.za/)
-* ⚡ Fun fact: Obsessed with Brazilian jiu-jitsu and won 3 gold medals when I competed in 2023
+* ⚡ Fun fact: Brazilian jiu-jitsu blue belt and won 3 gold medals when I competed in 2023
 * 📫 How to reach me: via email or phone (do some digging and you will find both)
