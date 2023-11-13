@@ -12,3 +12,6 @@ Product Manager. Software Developer. Solutions Architect.
 * 🏡 [My website](https://mckriel.co.za/)
 * ⚡ Fun fact: Brazilian jiu-jitsu blue belt and won 3 gold medals when I competed in 2023
 * 📫 How to reach me: via email or phone (do some digging and you will find both)
+* Courses completed in 2023:
+* - Complete machine learning and data science bootcamp 2023
+  - 
