@@ -8,7 +8,7 @@ Product Manager. Software Developer. Solutions Architect.
 * 📦 I have 10 years of experience as a Product Manager
 * 👨‍💻 I have 3 years of experience as a Software Developer
 * 🔭 I am currently working at [skrmiish.gg](https://skrmiish.gg/) as a Senior Product Manager, also helping out with Frontend and Backend dev tasks.
-* 🌱 I am currently learning [Ultimate AWS Certified Solutions Architect Associate SAA-C03]([https://www.udemy.com/course/the-complete-web-developer-zero-to-mastery/](https://www.udemy.com/course/aws-certified-solutions-architect-associate-saa-c03/))
+* 🌱 I am currently learning [Ultimate AWS Certified Solutions Architect Associate SAA-C03](https://www.udemy.com/course/the-complete-web-developer-zero-to-mastery/](https://www.udemy.com/course/aws-certified-solutions-architect-associate-saa-c03/))
 * 🏡 [My website](https://mckriel.co.za/)
 * ⚡ Fun fact: Brazilian jiu-jitsu blue belt and won 3 gold medals when I competed in 2023
 * 📫 How to reach me: via email or phone (do some digging and you will find both)
