@@ -18,6 +18,3 @@ Product Manager | Software Developer
   - 100 Days of Code: The Complete Python Pro Bootcamp for 2023
   - Progressive Web Apps Complete Guide
   - Ethereum and Solidity: The Complete Developers Guide
- * Courses completed in 2024:
-  - AWS Cloud Practioner
-  - ZTM Go Lang
