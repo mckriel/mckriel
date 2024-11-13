@@ -7,7 +7,7 @@ Product Manager | Software Developer
 * 📍 I am based in Cape Town, South Africa
 * 📦 I have 10 years of experience as a Product Manager
 * 👨‍💻 I have 4 years of experience as a Software Developer
-* 🔭 I am currently working at [skrmiish.gg](https://skrmiish.gg/) as a Senior Product Manager, also helping out with Frontend and Backend dev tasks.
+* 🔭 I am currently upskilling for a new development role in 2025
 * 🌱 I am currently learning [Ultimate AWS Certified Solutions Architect Associate SAA-C03](https://www.udemy.com/course/the-complete-web-developer-zero-to-mastery/](https://www.udemy.com/course/aws-certified-solutions-architect-associate-saa-c03/))
 * 🏡 [My website](https://www.matthewrkriel.com/)
 * ⚡ Fun fact: Won 3 gold medals in 2023 competing in Brazilian jiu-jitsu as a blue belt
@@ -18,3 +18,7 @@ Product Manager | Software Developer
   - 100 Days of Code: The Complete Python Pro Bootcamp for 2023
   - Progressive Web Apps Complete Guide
   - Ethereum and Solidity: The Complete Developers Guide
+* Courses completed in 2024:
+  - Go Programming (Golang): The Complete Developer's Guide
+  - Rust Programming: The Complete Developer's Guide
+  - AWS Certified Cloud Practitioner: Zero to Mastery [(Certificaion)](https://www.credly.com/badges/22a9ea98-ed75-4644-97ef-2246166b0d3f/public_url)
