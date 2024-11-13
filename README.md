@@ -9,7 +9,7 @@ Product Manager | Software Developer
 * 👨‍💻 I have 4 years of experience as a Software Developer
 * 🔭 I am currently upskilling for a new development role in 2025
 * 🌱 I am currently learning [Ultimate AWS Certified Solutions Architect Associate SAA-C03](https://www.udemy.com/course/the-complete-web-developer-zero-to-mastery/](https://www.udemy.com/course/aws-certified-solutions-architect-associate-saa-c03/))
-* 🏡 [My website](https://www.matthewrkriel.com/)
+* 🏡 [My website](https://matthewrkriel.com/)
 * ⚡ Fun fact: Won 3 gold medals in 2023 competing in Brazilian jiu-jitsu as a blue belt
 * 📫 How to reach me: via email or phone (do some digging and you will find both)
 * Courses completed in 2023:
