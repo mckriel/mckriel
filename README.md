@@ -4,8 +4,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full Stack Developer (ex Product Manager)
 -----------------------------------------
 
-* 📦  10 years of experience as a Product Manager
 * 👨‍💻  6 years of experience as a Software Developer
+* 📦  10 years of experience as a Product Manager
 * 🌍  I'm based in Cape Town, South Africa
 * 🖥️  See my portfolio at [matthewkriel.com](http://www.matthewkriel.com)
 * ✉️  You can contact me at [mckriel@gmail.com](mailto:mckriel@gmail.com)
