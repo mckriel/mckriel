@@ -4,6 +4,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full Stack Developer (ex Product Manager)
 -----------------------------------------
 
+There is ABSOLUTELY nothing more satisfying and adrenalin-pumping than solving a complex coding problem. The only thing that comes close is taking a concept from ideation all the way through to production deployment and into users' hands. I live and breathe for those moments and I hope to share my passion with building with you.
+
 * 👨‍💻  6 years of experience as a Software Developer
 * 📦  10 years of experience as a Product Manager
 * 🌍  I'm based in Cape Town, South Africa
@@ -21,3 +23,4 @@ Full Stack Developer (ex Product Manager)
   - Go Programming (Golang): The Complete Developer's Guide
   - Rust Programming: The Complete Developer's Guide
   - AWS Certified Cloud Practitioner: Zero to Mastery [(Certificaion)](https://www.credly.com/badges/22a9ea98-ed75-4644-97ef-2246166b0d3f/public_url)
+* ⚡  I am a purple belt in brazilian jiu jitsu, you can check out my graduation video on my instagram [(here)](https://www.instagram.com/reel/DC1ogNJoiV8/?igsh=MWd0NGJkbzBwdXBhdg==).
