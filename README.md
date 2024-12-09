@@ -10,7 +10,7 @@ Full Stack Developer (ex Product Manager)
 * 🖥️  See my portfolio at [matthewkriel.com](http://www.matthewkriel.com)
 * ✉️  You can contact me at [mckriel@gmail.com](mailto:mckriel@gmail.com)
 * 🚀  I'm currently working on [PFA Class Schedule App](http://www.matthewkriel.com/pfa) and my World of Warcraft guilds [website](https://onemoregame.vercel.app/) with a fellow officer :)
-* 🧠  I'm learning Advanced Rust Concepts, Typescript & Solidity
+* 🧠  I'm currently learning Advanced Rust Concepts, Typescript & Solidity
 * Courses completed in 2023:
   - Complete Machine Learning & Data Science Bootcamp 2023
   - The Complete Web Developer in 2023: Zero to Mastery
