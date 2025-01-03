@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Matthew Kriel
 =====================================================================================================================================
 
-Full Stack Developer (ex Product Manager)
+Software Engineer (ex Product Manager)
 -----------------------------------------
 
 There is ABSOLUTELY nothing more satisfying and adrenalin-pumping than solving a complex coding problem. The only thing that comes close is taking a concept from ideation all the way through to production deployment and into users' hands. I live and breathe for those moments and I hope to share my passion with building with you.
