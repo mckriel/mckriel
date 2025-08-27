@@ -7,7 +7,7 @@ Software Engineer (ex Product Manager)
 There is ABSOLUTELY nothing more satisfying and adrenalin-pumping than solving a complex coding problem. The only thing that comes close is taking a concept from ideation all the way through to production deployment and into users' hands. I live and breathe for those moments and I hope to share my passion with building with you.
 
 * 👨‍💻  6 years of experience as a Software Developer
-* 📦  10 years of experience as a Product Manager
+* 📦  10 years of experience as a Technical Product Manager
 * 🌍  I'm based in Cape Town, South Africa
 * 🖥️  See my portfolio at [matthewkriel.com](http://www.matthewkriel.com)
 * ✉️  You can contact me at [mckriel@gmail.com](mailto:mckriel@gmail.com)
