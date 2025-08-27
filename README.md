@@ -11,7 +11,7 @@ There is ABSOLUTELY nothing more satisfying and adrenalin-pumping than solving a
 * 🌍  I'm based in Cape Town, South Africa
 * 🖥️  See my portfolio at [matthewkriel.com](http://www.matthewkriel.com)
 * ✉️  You can contact me at [mckriel@gmail.com](mailto:mckriel@gmail.com)
-* 🚀  I'm currently working on [PFA Class Schedule App](http://www.matthewkriel.com/pfa) and my World of Warcraft guilds [website](https://onemoregame.vercel.app/) with a fellow officer :)
+* 🚀  I'm currently working on [PFA Class Schedule App](http://www.matthewkriel.com/pfa) and my World of Warcraft guilds [website](https://onemoregame.app/) with a fellow officer :)
 * 🧠  I'm currently learning Advanced Rust Concepts, Typescript & Solidity
 * ⚡  I am a purple belt in brazilian jiu jitsu, you can check out my graduation video on my instagram [(here)](https://www.instagram.com/reel/DC1ogNJoiV8/?igsh=MWd0NGJkbzBwdXBhdg==).
 * Courses completed in 2023:
