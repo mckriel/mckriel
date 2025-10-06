@@ -18,7 +18,7 @@ There is ABSOLUTELY nothing more satisfying and adrenalin-pumping than solving a
 
 ### Personal Projects
 * 🚀  Personal projects:
-* [PFA Class Schedule App](http://www.matthewkriel.com/pfa)
+** [PFA Class Schedule App](http://www.matthewkriel.com/pfa)
 * [One More Game](https://onemoregame.app/) WoW guild website with fellow officer
 * [Sunsets The Movement](http://www.matthewkriel.com/sunsets) community events
 
