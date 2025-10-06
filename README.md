@@ -17,33 +17,10 @@ There is ABSOLUTELY nothing more satisfying and adrenalin-pumping than solving a
 * 🏢  Senior Backend Engineer at Sociable - leading TypeScript migrations and mobile app development
 
 ### Personal Projects
-* 🚀  Personal projects:
 ** [PFA Class Schedule App](http://www.matthewkriel.com/pfa)
 * [One More Game](https://onemoregame.app/) WoW guild website with fellow officer
 * [Sunsets The Movement](http://www.matthewkriel.com/sunsets) community events
-
-* 🧠  I'm currently learning Advanced TypeScript, Microservices Architecture & Cloud Infrastructure
-* ⚡  I am a purple belt in brazilian jiu jitsu, you can check out my graduation video on my instagram [(here)](https://www.instagram.com/reel/DC1ogNJoiV8/?igsh=MWd0NGJkbzBwdXBhdg==).
-
-### Learning & Achievements
-
-* Courses completed in 2023:
-  - Complete Machine Learning & Data Science Bootcamp 2023
-  - The Complete Web Developer in 2023: Zero to Mastery
-  - 100 Days of Code: The Complete Python Pro Bootcamp for 2023
-  - Progressive Web Apps Complete Guide
-  - Ethereum and Solidity: The Complete Developers Guide
-
-* Courses completed in 2024:
-  - Go Programming (Golang): The Complete Developer's Guide
-  - Rust Programming: The Complete Developer's Guide
-  - AWS Certified Cloud Practitioner: Zero to Mastery [(Certification)](https://www.credly.com/badges/22a9ea98-ed75-4644-97ef-2246166b0d3f/public_url)
-
-* Achievements in 2024:
-  - AWS Certified Cloud Practitioner [(Certification)](https://www.credly.com/badges/22a9ea98-ed75-4644-97ef-2246166b0d3f/public_url)
-  - Promoted to Purple Belt in Brazilian Jiu Jitsu [(Graduation Video)](https://www.instagram.com/reel/DC1ogNJoiV8/?igsh=MWd0NGJkbzBwdXBhdg==)
-  - Started coaching at Pride Fighting Academy
-  - Founded Sunsets The Movement community events
+* I am a purple belt in brazilian jiu jitsu, you can check out my graduation video on my instagram [(here)](https://www.instagram.com/reel/DC1ogNJoiV8/?igsh=MWd0NGJkbzBwdXBhdg==).
 
 ### Skills & Tools
 
