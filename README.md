@@ -17,7 +17,10 @@ There is ABSOLUTELY nothing more satisfying and adrenalin-pumping than solving a
 * 🏢  Senior Backend Engineer at Sociable - leading TypeScript migrations and mobile app development
 
 ### Personal Projects
-* 🚀  Personal projects: [PFA Class Schedule App](http://www.matthewkriel.com/pfa), [One More Game](https://onemoregame.app/) WoW guild website with fellow officer, [Sunsets The Movement](http://www.matthewkriel.com/sunsets) community events
+* 🚀  Personal projects:
+* [PFA Class Schedule App](http://www.matthewkriel.com/pfa)
+* [One More Game](https://onemoregame.app/) WoW guild website with fellow officer
+* [Sunsets The Movement](http://www.matthewkriel.com/sunsets) community events
 
 * 🧠  I'm currently learning Advanced TypeScript, Microservices Architecture & Cloud Infrastructure
 * ⚡  I am a purple belt in brazilian jiu jitsu, you can check out my graduation video on my instagram [(here)](https://www.instagram.com/reel/DC1ogNJoiV8/?igsh=MWd0NGJkbzBwdXBhdg==).
