@@ -52,6 +52,10 @@ There is ABSOLUTELY nothing more satisfying and adrenalin-pumping than solving a
 <a href="https://metamask.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/metamask-colored.svg" width="36" height="36" alt="MetaMask" /></a>
 <a href="https://ethereum.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ethereum-colored.svg" width="36" height="36" alt="Ethereum" /></a>
 <a href="https://polygon.technology/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/polygon-colored.svg" width="36" height="36" alt="Polygon" /></a>
+
+<a href="https://redis.io/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white" width="36" height="36" alt="Redis" /></a>
+<a href="https://www.rabbitmq.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" width="36" height="36" alt="RabbitMQ" /></a>
+<a href="https://www.elastic.co/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch" width="36" height="36" alt="Elasticsearch" /></a>
 </p>
 
 ### Socials
