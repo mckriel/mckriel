@@ -7,19 +7,11 @@ Senior Software Engineer (ex Product Manager)
 There is ABSOLUTELY nothing more satisfying and adrenalin-pumping than solving a complex coding problem. The only thing that comes close is taking a concept from ideation all the way through to production deployment and into users' hands. I live and breathe for those moments and I hope to share my passion with building with you.
 
 * 👨‍💻  7+ years of experience as a Software Developer
-* 📦  10 years of experience as a Technical Product Manager
 * 🖥️  See my portfolio at [matthewkriel.com](http://www.matthewkriel.com)
 * ✉️  You can contact me at [mckriel@gmail.com](mailto:mckriel@gmail.com)
 
-### Professional Work
-* 💼  Currently working as Senior Software Engineer at [Stubber](http://www.matthewkriel.com) - building AI automation platform and microservices
-* 🏢  Senior Backend Engineer at Sociable - leading TypeScript migrations and mobile app development
-
-### Personal Projects
-* [PFA Class Schedule App](http://www.matthewkriel.com/pfa)
-* [One More Game](https://onemoregame.app/) WoW guild website with fellow officer
-* [Sunsets The Movement](http://www.matthewkriel.com/sunsets) community events
-* I am a purple belt in brazilian jiu jitsu, you can check out my graduation video on my instagram [(here)](https://www.instagram.com/reel/DC1ogNJoiV8/?igsh=MWd0NGJkbzBwdXBhdg==).
+### Current Role
+* 💼  Senior Engineer at [247 Terminal](https://247terminal.com/)
 
 ### Skills & Tools
 
